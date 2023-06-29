@@ -1,0 +1,52 @@
+.CouponDetails img {
+  height: 400px;
+  border-radius: 6px;
+  margin: 0 auto;
+}
+.CouponDetails {
+  width: 600px;
+  text-align: left;
+  margin: 90px auto;
+  border-radius: 4px;
+  background-color: #eaeaea;
+  padding: 30px;
+  padding-top: 10px;
+  
+}
+.name {
+  text-align: center;
+  font-size: 40px;
+  font-family: mv boli;
+	/* color: #fac031; */
+}
+.price {
+  text-align: left;
+  font-size: 30px;
+}
+.CouponDetails a {
+  text-decoration: none;
+  font-size: 20px;
+  color: black;
+  transition: 0.2s;
+}
+.CouponDetails a:hover {
+  padding: 4px;
+  background-color: rgb(85, 119, 255);
+  border-radius: 4px;
+  color: white;
+  font-size: 22px;
+}
+
+.navLinks {
+  display: flex;
+  justify-content: space-around;
+}
+.navLinks a {
+  border: 1px solid;
+  border-radius: 4px;
+  padding: 5px;
+  text-align: center;
+}
+.CouponDetails h3{
+	
+}

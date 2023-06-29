@@ -1,0 +1,31 @@
+.CompaniesToAproveList {
+  height: 100%;
+}
+.CompaniesToAproveList table {
+  border: 1px solid;
+  margin: 130px auto;
+  border-collapse: collapse;
+  font-size: 20px;
+}
+.CompaniesToAproveList table th {
+  padding: 20px;
+  border: 1px solid;
+}
+.CompaniesToAproveList table tr,
+td {
+  padding: 20px;
+  border: 1px solid;
+}
+.CompaniesToAproveList #messageDiv {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin:200px;
+}
+.CompaniesToAproveList #messageDiv span {
+  font-size: 30px;
+  font-weight: bold;
+
+}
+
+

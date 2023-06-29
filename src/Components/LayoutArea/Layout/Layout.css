@@ -1,0 +1,17 @@
+.Layout {
+  height: 100%;
+  box-sizing: border-box;
+}
+header {
+  border: 1px solid;
+  height: 350px;
+}
+.Routing {
+  margin: 0 auto;
+ 
+  
+}
+footer {
+
+  height: 250px;
+}

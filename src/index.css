@@ -1,0 +1,16 @@
+body ,html,#root{
+  margin: 0;
+  height: 100%;
+
+
+  font-family: sans-serif;
+  
+}
+.Box{
+  box-shadow: 5px 5px 10px;
+  border: 1px solid;
+  border-radius: 9px;
+
+}
+
+

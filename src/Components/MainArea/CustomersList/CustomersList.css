@@ -1,0 +1,18 @@
+
+.CustomersList {
+    height: 100%;
+  }
+  .CustomersList table {
+    border: 1px solid;
+    margin: 100px auto;
+    border-collapse: collapse;
+    font-size: 20px;
+  }
+  .CustomersList table th {
+    padding: 20px;
+    border: 1px solid;
+  }
+  .CustomersList table tr, td{
+    padding: 20px;
+    border: 1px solid;
+  }

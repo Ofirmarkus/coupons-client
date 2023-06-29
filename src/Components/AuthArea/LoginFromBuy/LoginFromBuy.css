@@ -1,0 +1,38 @@
+.LoginFromBuy {
+	
+}
+.LoginFromBuy > form {
+    width: 200px;
+    text-align: left;
+    margin: auto;
+  }
+  
+  .LoginFromBuy button {
+    width: 100%;
+    box-sizing: border-box;
+    
+  }
+  
+  
+  .LoginFromBuy h2 {
+    text-align: center;
+  }
+  .LoginFromBuy{
+    width: 500px;
+    height: 400px;
+    margin: 100px auto;
+    background-color: #d9e8fc;
+    border-radius: 11px;
+    box-shadow: 10px 10px 15px;
+    
+    
+  }
+  #demo-simple-select-label{
+    font-weight: bold;
+  }
+  .LoginFromBuy .errorSpan {
+    position: absolute;
+    color: red;
+    margin-left: 20px;
+  }
+  

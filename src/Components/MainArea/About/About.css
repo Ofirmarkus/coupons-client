@@ -1,0 +1,35 @@
+.About #logo {
+    
+  
+   
+
+  display: flex;
+  flex-direction: column;
+}
+.About #logo img {
+  width: 650px;
+}
+.About h3 {
+  font-family: "--e-global-typography-33a7f93-font-family ", sans-serif;
+  width: 600px;
+  font-size: 35px;
+}
+.About p {
+  width: 600px;
+  font-size: 30px;
+}
+.About #text {
+    /* position: absolute;
+    top: 600px; */
+  display: flex;
+  flex-direction: column;
+  text-align: left;
+  margin-top:250px;
+}
+.About{
+  display: flex;
+  flex-direction: row;
+  justify-content:space-between;
+ 
+  width: 100%;
+}

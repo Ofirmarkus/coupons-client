@@ -1,0 +1,18 @@
+
+  .CompaniesList {
+    height: 100%;
+  }
+  .CompaniesList table {
+    border: 1px solid;
+    margin: 100px auto;
+    border-collapse: collapse;
+    font-size: 20px;
+  }
+  .CompaniesList table th {
+    padding: 20px;
+    border: 1px solid;
+  }
+  .CompaniesList table tr, td{
+    padding: 20px;
+    border: 1px solid;
+  }

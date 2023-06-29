@@ -1,0 +1,42 @@
+.CustomerDetails {
+	
+}
+.CustomerDetails > form {
+    width: 200px;
+    text-align: left;
+    margin: auto;
+  }
+  
+  
+  .CustomerDetails button {
+    width: 100%;
+    box-sizing: border-box;
+    
+  }
+  
+  
+  .CustomerDetails h2 {
+    text-align: center;
+    margin-top: px;
+    
+  }
+  .CustomerDetails{
+    width: 500px;
+    height: 500px;
+    margin: 100px auto;
+    border-radius: 9px;
+    box-shadow: 10px 10px 15px;
+    background-color:  #d9e8fc;
+    
+  }
+  .CustomerDetails .buttons {
+    width: 95px;
+   
+  }
+  .CustomerDetails #buttonsDiv {
+    display: flex;
+    width: 100%;
+    flex-direction: row;
+    justify-content: space-between !important;
+  }
+    

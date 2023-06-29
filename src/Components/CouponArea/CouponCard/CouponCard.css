@@ -1,0 +1,30 @@
+.CouponCard {
+  width: 200px;
+  background-color: rgb(236, 235, 235);
+  height: 270px;
+  font-size: 12px;
+  margin-top: 40px;
+  margin-bottom: 30px;
+  margin-left: 20px;
+  transition: 0.2s;
+}
+.CouponCard img {
+  transition: 0.2s;
+  width: 200px;
+  height: 150px;
+  border-radius: 6px;
+  margin-bottom: 10px;
+}
+
+.CouponCard span {
+  margin-left: 4px;
+  font-weight: bold;
+}
+.spanName {
+  font-size: 20px;
+}
+.spanPrice {
+  font-size: 16px;
+  
+ 
+}

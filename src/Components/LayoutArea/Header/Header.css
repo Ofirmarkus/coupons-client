@@ -1,0 +1,31 @@
+.Header h1 {
+    position: absolute;
+
+    color: azure;
+    margin-left: 2%;
+    
+	
+}
+.Header{
+    /* background-color: rgb(15, 174, 218); */
+    background-color: #375277;
+    display: flex;
+    justify-content: space-between;
+    
+    
+}
+
+.Header h2{
+    position: absolute;
+    right: 15%;
+    left: 33%;
+
+    color: azure;
+    font-size: 60px;
+}
+.Header h2 span{
+    font-family: mv boli;
+    color: #fac031;
+}
+
+

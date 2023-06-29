@@ -1,0 +1,28 @@
+.EditCoupon {
+	
+}
+.EditCoupon > form {
+    width: 200px;
+    text-align: left;
+    margin:20px auto;
+  }
+  
+  
+  .EditCoupon button {
+    width: 100%;
+    box-sizing: border-box;
+    
+  }
+  
+  
+  .EditCoupon h2 {
+    text-align: center;
+  }
+  .EditCoupon{
+    width: 500px;
+    height: 800px;
+    margin: 100px auto;
+    background-color: #d9e8fc;
+    border-radius: 11px;
+    
+  }

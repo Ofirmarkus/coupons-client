@@ -1,0 +1,35 @@
+.PurchaseCoupon img{
+	width: 400px;
+    height:310px;
+    padding-top: 10px;
+    padding-right: 10px;
+}
+.PurchaseCoupon{
+  text-align: center;
+  margin: 70px auto;
+  width:700px;
+  border-radius: 3px;
+  height: 360px;
+}
+#couponDiv{
+    background-color: rgb(238, 238, 238);
+    display: grid;
+    grid-template-rows:  50% 50%;
+    grid-template-columns: repeat(6, 1fr)
+}
+.PurchaseCoupon img{
+    grid-column: span 3;
+    border-radius: 4px;
+}
+.PurchaseCoupon #detailsDiv{
+    text-align: left;
+    grid-column: span 3;
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+}
+.PurchaseCoupon button{
+    width: 200px;
+}
+
+

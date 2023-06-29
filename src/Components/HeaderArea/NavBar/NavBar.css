@@ -1,0 +1,49 @@
+.NavBar {
+  color: azure;
+}
+.Header nav {
+  margin-top: 20px;
+}
+.Header nav a {
+  margin-right: 10px;
+  margin-top: 20px;
+  color: azure;
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 17px;
+  transition: 0.2s;
+  padding: 5px 10px;
+}
+.Header nav a:hover {
+  font-size: larger;
+  border: 1px solid;
+  border-radius: 4px;
+  background-color: rgb(180, 100, 255);
+}
+.authDiv {
+  position: relative;
+  width: 220px;
+  display: flex;
+  flex-direction: column;
+  margin-top: 50px;
+  justify-content: space-between;
+  text-align: center;
+}
+.authDiv a {
+  border: 1px solid white;
+  border-radius: 4px;
+}
+.authDiv:hover {
+  font-size: 14px;
+}
+.NavBar .active {
+  background-color: rgb(180, 100, 255);
+  border: 1px solid white;
+  border-radius: 4px;
+}
+.Cart {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 12px;
+}

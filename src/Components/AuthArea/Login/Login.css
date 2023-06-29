@@ -1,0 +1,36 @@
+.Login > form {
+    width: 200px;
+    text-align: left;
+    margin: auto;
+  }
+  
+  .Login button {
+    width: 100%;
+    box-sizing: border-box;
+    
+  }
+  
+  
+  .Login h2 {
+    text-align: center;
+  }
+  .Login{
+    width: 500px;
+    height: 400px;
+    margin: 100px auto;
+    background-color: #d9e8fc;
+    border-radius: 11px;
+    box-shadow: 10px 10px 15px;
+    
+    
+  }
+  #demo-simple-select-label{
+    font-weight: bold;
+  }
+  .Login .errorSpan {
+    position: absolute;
+    color: red;
+    margin-left: 20px;
+  }
+
+  

@@ -1,0 +1,18 @@
+  .CompanyCoupons{
+    
+  }
+
+  .CompanyCoupons table {
+    border: 1px solid;
+    margin: 100px auto;
+    border-collapse: collapse;
+    font-size: 20px;
+  }
+  .CompanyCoupons table th {
+    padding: 20px;
+    border: 1px solid;
+  }
+  .CompanyCoupons table tr, td{
+    padding: 20px;
+    border: 1px solid;
+  }

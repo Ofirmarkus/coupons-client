@@ -1,0 +1,43 @@
+.CustomersToAproveList {
+    height: 100%;
+  }
+  .CustomersToAproveList table {
+    border: 1px solid;
+    margin: 130px auto;
+    border-collapse: collapse;
+    font-size: 20px;
+  }
+  .CustomersToAproveList table th {
+    padding: 20px;
+    border: 1px solid;
+  }
+  .CustomersToAproveList table tr, td{
+    padding: 20px;
+    border: 1px solid;
+  }
+
+  .CustomersToAproveList #messageDiv{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 200px;
+  }
+  .CustomersToAproveList #messageDiv a{
+    margin-top: 30px;
+    padding: 3px;
+    text-decoration: none;
+    background-color: rgb(180, 100, 255);
+    border: 1px solid black;
+    border-radius: 4px;
+    color: white;
+    transition: 0.2s;
+    
+  }
+  .CustomersToAproveList #messageDiv a:hover{
+  font-size: large;
+  }
+  .CustomersToAproveList #messageDiv span{
+    font-size: 30px;
+    font-weight: bold;
+  
+  }

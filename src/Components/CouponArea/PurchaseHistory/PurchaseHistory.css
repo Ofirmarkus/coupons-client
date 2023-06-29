@@ -1,0 +1,50 @@
+.PurchaseHistory {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  margin: 83px auto;
+  width: 100%;
+  
+}
+.PurchaseHistory #messageDiv{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 200px;
+}
+.PurchaseHistory #messageDiv a{
+  margin-top: 30px;
+  padding: 3px;
+  text-decoration: none;
+  background-color: rgb(180, 100, 255);
+  border: 1px solid black;
+  border-radius: 4px;
+  color: white;
+  transition: 0.2s;
+  
+}
+.PurchaseHistory #messageDiv a:hover{
+font-size: large;
+}
+.PurchaseHistory #messageDiv span{
+  font-size: 30px;
+  font-weight: bold;
+
+}
+
+
+.PurchaseHistory table {
+  border: 1px solid;
+  margin: 100px auto;
+  border-collapse: collapse;
+  font-size: 20px;
+}
+.PurchaseHistory table th {
+  padding: 20px;
+  border: 1px solid;
+}
+.PurchaseHistory table tr, td{
+  padding: 20px;
+  border: 1px solid;
+}
